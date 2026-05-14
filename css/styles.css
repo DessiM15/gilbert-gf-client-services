@@ -133,8 +133,10 @@ img {
 }
 
 .navbar-logo img {
-  height: 55px;
+  height: 100px;
   width: auto;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
 }
 
 .nav-links {
@@ -662,8 +664,10 @@ img {
 }
 
 .footer-brand img {
-  height: 50px;
+  height: 90px;
   margin-bottom: 14px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
 
 .footer-brand p {
